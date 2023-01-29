@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1836
     height: 1037
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Inspector
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 64
+  controlID: 66
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,7 +144,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 101
+  controlID: 97
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -169,7 +169,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 102
+  controlID: 98
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -402,9 +402,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 2efbffff
+      m_SelectedIDs: e06b0000
+      m_LastClickedID: 27616
+      m_ExpandedIDs: 24fbffff2efbffffec6b0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -686,9 +686,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.6739441, y: 3.9965785, z: -11.100982}
+    m_Target: {x: 1.980119, y: 2.4752293, z: 0.03881073}
     speed: 2
-    m_Value: {x: 0.6739441, y: 3.9965785, z: -11.100982}
+    m_Value: {x: 1.980119, y: 2.4752293, z: 0.03881073}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -735,13 +735,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.23357125, y: 0.027930556, z: -0.0068076667, w: -0.9720903}
+    m_Target: {x: -0.21004638, y: 0.04420892, z: -0.009601392, w: -0.9768194}
     speed: 2
-    m_Value: {x: -0.23353139, y: 0.02792579, z: -0.006806505, w: -0.97192436}
+    m_Value: {x: -0.21001045, y: 0.04420136, z: -0.00959975, w: -0.9766523}
   m_Size:
-    m_Target: 0.8660254
+    m_Target: 11.925186
     speed: 2
-    m_Value: 0.8660254
+    m_Value: 11.925186
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -4811,7 +4811,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: 83
-  m_LastProjectPath: C:\Users\Janitor\Desktop\Helix Jump Clone
+  m_LastProjectPath: C:\Users\Janitor\Desktop\Helix_Jump_Clone
   m_LockTracker:
     m_IsLocked: 1
   m_FolderTreeState:
@@ -4873,7 +4873,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000946c00000a720000cc720000126d000084740000ec5d000084d900000000000008750000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
